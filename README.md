@@ -7,14 +7,14 @@ npm install
 node server.js
 ```
 
-#frontend
+## frontend
 ```bash
 *cd chatApp
 *npm install
 *npm run dev
 ```
 
-#server
+## server
 ```bash
 *cd chatApp
 *node server.js
