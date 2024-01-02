@@ -1,9 +1,11 @@
-#set up
+# Set Up
 
-#backend
-*cd backend
-*npm install
-*node server.js
+## Backend
+```bash
+cd backend
+npm install
+node server.js
+```
 
 #frontend
 *cd chatApp
